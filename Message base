@@ -1,2 +1,3 @@
-An application that collects messages and files sent from different platforms. It will connect all messengers of the user and allow you to use them from one place. Built-in filter will allow you to find necessary messages and chats. Sent files will receive a sender tag,
+An application that collects messages and files sent from different platforms. It will connect all messengers of the user and allow you to use them from one place.
+Built-in filter will allow you to find necessary messages and chats. Sent files will receive a sender tag,
 which will allow you to find them and identify the source.
