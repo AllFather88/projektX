@@ -1,7 +1,6 @@
-1 An application that collects messages and files sent from different platforms. It will connect all messengers of the user and allow you to use them from one place.
-Built-in filter will allow you to find necessary messages and chats. Sent files will receive a sender tag,
-which will allow you to find them and identify the source.it is possible to implement the function of sending messages to yourself at a given time,
-which will allow you to create a database of notes and reminders
-2 An application that allows you to find by frame or audio fragment the film or TV series from which it was taken
-3 The application collects medical data and gives the user a list of restrictions and recommendations; it can also remind you when to take medications
-There are prospects for partnerships with companies in the medical field, and in this case it is possible to expand the base of functions
+ infoexos - приложение для сбора и обмена информацией через различные системы 
+ приложение предоставляет возможность создания локальной сети это позволит
+ уменшить риск утечки конфиденциальной корпаративной информации
+ приложение позволи пользователям уменшить время поиска информации и 
+ исключит время перемещения между площадками 
+ приложение будет полезно коммерческим кампаниям и рядовым пользователям
